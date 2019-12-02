@@ -38,10 +38,4 @@ And add this where you want:
 	
 If you liked this library, add a star to this project and feel free to make a <b>fork!</b><br>
 <br><br>
-<hr>
-A special thanks to Rofiq Setiawan who made a porting of iOSDialog for Xamarin.
-Check it out here: <a href="https://github.com/rofiqsetiawan/iOSDialog">https://github.com/rofiqsetiawan/iOSDialog</a>
-<br>
-Another special thanks to Francesco Borrelli who helped me with the implementation of the iOSDialogClickListener
-Here is his Linkedin profile <a href="https://github.com/rofiqsetiawan/iOSDialog">https://www.linkedin.com/in/francesco-borrelli1/</a>
 
