@@ -10,7 +10,7 @@ With this library you can use iOS UIAlertView on Android.<br>
 <br>
 To install the library just add this line to your gradle:
 	
-	implementation 'com.gdacciaro:iosdialog:1.0.3'
+	implementation 'com.github.ramseth001:iOSDialog:0.1'
 	
 And add this where you want:
 
